@@ -69,5 +69,5 @@ GitHub Stats
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=leonilsonchgas66&show_icons=true&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=sh1ftx&theme=tokyonight&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7&background=00000000" />
+  <img src="https://streak-stats.demolab.com/?user=leonilsonchgas66&theme=tokyonight&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7&background=00000000" />
 </div>
