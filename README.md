@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=40&center=true&vCenter=true&width=1200&lines=LEO+Tech;CYBERSECURITY+PROFESSIONAL;PENTESTER+%7C+DEFENSIVE+%26+OFFENSIVE+OPS;CODE+IN+THE+DARK,+HACK+WITH+LIGHT" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=40&center=true&vCenter=true&width=1200&lines=Leo+Tech;CYBERSECURITY+PROFESSIONAL;PENTESTER+%7C+DEFENSIVE+%26+OFFENSIVE+OPS;CODE+IN+THE+DARK,+HACK+WITH+LIGHT" />
 </p>
 
 <p align="center" style="margin-top: 15px;">
